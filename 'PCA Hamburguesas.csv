@@ -1,0 +1,165 @@
+Meat,Type,Sandwich,Calories,TotalFat_g,Sodium_mg,CaloriesFromFat,SaturatedFat_g,TransFat_g,Cholesterol_mg,Carbohydrates_g,Fiber_g,Sugars_g,Protein_g,Restaurant
+Ham,Sandwich,Arby-Q Sandwich,400,10,1230,90,3.0,0.0,30,58,3,23,18,Arby's
+Ham,Crossover,Arby’s Melt,330,11,920,100,4.0,0.0,30,40,2,5,18,Arby's
+Beef,Crossover,Beef ‘n Cheddar Classic,440,18,1290,160,5.0,1.0,45,47,2,9,23,Arby's
+Beef,Crossover,Beef ‘n Cheddar Mid,530,23,1720,200,7.0,1.0,80,48,2,9,34,Arby's
+Beef,Burger,Jr Deluxe Sandwich,260,12,560,110,3.0,0.0,30,26,2,4,13,Arby's
+Beef,Crossover,Roast Beef Classic,350,12,950,110,4.0,1.0,45,39,2,5,23,Arby's
+Beef,Crossover,Roast Beef Max,580,22,1870,200,9.0,1.0,110,49,3,6,45,Arby's
+Beef,Crossover,Roast Beef Mid,440,17,1380,150,6.0,1.0,75,40,2,5,33,Arby's
+Beef,Crossover,Super Roast Beef,430,17,1060,160,5.0,1.0,45,45,3,11,23,Arby's
+Beef,Sandwich,Reuben Sandwich,640,30,1610,270,8.0,0.0,55,62,4,7,32,Arby's
+Turkey,Sandwich,Roast Turkey & Swiss Sandwich,700,27,1770,250,7.0,0.0,80,77,5,18,39,Arby's
+Turkey,Wrap,Roast Turkey & Swiss Wrap,500,24,1500,220,6.0,1.0,80,43,8,6,35,Arby's
+Turkey,Sandwich,"Roast Turkey, Ranch & Bacon Sandwich",800,36,2200,320,9.0,1.0,105,78,5,18,45,Arby's
+Turkey,Wrap,"Roast Turkey, Ranch & Bacon Wrap",600,32,1940,290,9.0,1.0,105,44,8,6,41,Arby's
+Chicken,Burger,Chicken Bacon & Swiss – Crispy,610,30,1400,270,7.0,0.0,75,51,3,8,33,Arby's
+Chicken,Burger,Chicken Cordon Bleu – Crispy,620,32,1710,280,7.0,0.0,90,48,3,6,37,Arby's
+Chicken,Sandwich,Crispy Chicken Sandwich A,540,27,990,240,4.5,0.0,55,48,3,8,27,Arby's
+Chicken,Nuggets,Prime-Cut Chicken Tenders (3),350,17,970,150,3.0,0.0,45,25,2,0,25,Arby's
+Chicken,Nuggets,Prime-Cut Chicken Tenders (5),590,28,1610,250,4.0,0.0,75,42,4,0,42,Arby's
+Fish,Sandwich,Classic Fish Sandwich,570,25,1010,230,4.0,0.0,45,64,2,9,21,Arby's
+Beef,Crossover,Crispy Onion Mighty Minis- Roast Beef,550,30,1260,270,7.0,1.0,55,47,2,6,23,Arby's
+Beef,Crossover,French Dip & Swiss/Au Jus,430,14,2120,130,6.0,1.0,55,52,2,3,26,Arby's
+Ham,Just Meat,Ham & Swiss Melt,300,9,1030,80,4.0,0.0,35,37,2,6,18,Arby's
+Fish,Just Meat,KING’S HAWAIIAN Fish Deluxe Sandwich,790,36,1140,320,12.0,1.0,125,89,3,24,28,Arby's
+Beef,Crossover,Original Mighty Minis - Roast Beef,380,14,980,130,4.5,0.5,50,40,2,5,22,Arby's
+Beef,Just Meat,Smokehouse Brisket,610,35,1230,320,12.0,1.0,110,42,3,7,35,Arby's
+Turkey,Sandwich,Grand Turkey Club,490,24,1440,220,8.0,0.0,75,38,2,8,29,Arby's
+Beef,Crossover,Angus Philly,590,29,1760,270,9.0,1.0,85,48,3,4,34,Arby's
+Beef,Sandwich,Angus Three Cheese & Bacon Sandwich,640,33,1820,300,12.0,1.0,105,45,2,3,41,Arby's
+Beef,Burger,A.1.® Ultimate Bacon Cheeseburger,850,51,1480,460,22.0,3.0,140,43,1,8,41,Burger King
+Beef,Burger,Bacon Cheeseburger,330,16,830,140,7.0,0.0,55,32,1,7,18,Burger King
+Beef,Burger,Bacon Cheeseburger Deluxe,290,14,720,120,6.0,0.5,40,28,1,7,12,Burger King
+Beef,Burger,Big King,530,31,790,280,11.0,1.5,75,38,2,8,19,Burger King
+Beef,Burger,Cheeseburger BK,300,14,710,130,6.0,0.0,45,28,1,6,16,Burger King
+Beef,Burger,Double Bacon Cheeseburger,520,31,1180,280,14.0,1.0,105,33,1,8,31,Burger King
+Beef,Burger,Double Cheeseburger BK,450,26,960,230,12.0,1.0,95,29,1,6,26,Burger King
+Beef,Burger,Double Hamburger,360,18,520,160,8.0,0.0,70,28,1,6,22,Burger King
+Beef,Burger,Extra Long BBQ Cheeseburger,590,28,1080,250,11.0,1.5,70,62,4,14,22,Burger King
+Beef,Burger,Hamburger BK,260,10,490,90,4.0,0.0,35,28,1,6,13,Burger King
+Beef,Burger,King Jr. Cheeseburger,310,17,580,150,6.0,0.5,40,26,1,5,11,Burger King
+Chicken,Sandwich,Bacon Cheddar TENDERCRISP® Chicken Sandwich,740,47,1770,420,12.0,0.5,105,49,4,7,33,Burger King
+Fish,Sandwich,Big Fish Sandwich,530,27,1360,250,4.5,0.0,30,54,2,7,17,Burger King
+Veggie,Burger,BK VEGGIE Burger,410,16,1030,150,3.0,0.0,5,44,7,8,22,Burger King
+Chicken,Just Meat,Buffalo Chicken Strips (3pc),380,20,1820,180,3.5,0.0,55,27,3,0,22,Burger King
+Chicken,Just Meat,Buffalo Chicken Strips (5pc),620,33,2920,300,5.0,0.5,90,45,4,1,37,Burger King
+Chicken,Just Meat,Chicken Fries,290,17,780,150,3.0,1.5,40,18,1,1,16,Burger King
+Chicken,Just Meat,Chicken Nuggets (6 pc),290,17,460,150,3.0,0.0,40,15,1,0,15,Burger King
+Chicken,Just Meat,Chicken Nuggets (10pc),470,29,890,260,5.0,0.0,50,34,5,0,21,Burger King
+Chicken,Just Meat,Chicken Nuggets (20 pc),950,55,1530,500,11.0,0.0,130,50,5,0,51,Burger King
+Chicken,Just Meat,Chicken Nuggets (4 pc),190,11,310,100,2.0,0.0,25,10,1,0,10,Burger King
+Chicken,Burger,Crispy Chicken Jr.,430,28,760,250,4.5,0.0,30,34,2,4,12,Burger King
+Chicken,Just Meat,Home-style Chicken Strips- 2pc,240,13,940,110,3.0,0.0,20,23,0,0,9,Burger King
+Chicken,Just Meat,Home-style Chicken Strips- 3pc,360,19,1400,170,4.0,0.0,30,34,1,0,14,Burger King
+Chicken,Just Meat,Home-style Chicken Strips- 5pc,610,32,2340,280,6.0,1.0,50,57,1,1,23,Burger King
+Chicken,Sandwich,Original Chicken Sandwich,630,39,1390,350,7.0,1.0,65,46,3,4,24,Burger King
+Chicken,Sandwich,Rodeo Crispy Chicken Sandwich,410,17,870,150,3.0,0.0,20,53,2,14,12,Burger King
+Fish,Sandwich,Spicy Big Fish Sandwich,470,24,1150,210,4.0,0.0,30,50,2,6,15,Burger King
+Chicken,Burger,Spicy Crispy Chicken Jr.,410,25,850,220,4.5,0.0,35,35,2,5,12,Burger King
+Chicken,Sandwich,TENDERCRISP Chicken Sandwich,750,45,1560,400,8.0,1.0,70,58,3,8,30,Burger King
+Chicken,Sandwich,TENDERGRILL Chicken Sandwich,470,18,1100,170,4.0,0.0,85,40,2,7,37,Burger King
+Ham,Sandwich,YUMBO® Hot Ham & Cheese Sandwich,490,24,1770,210,8.0,0.0,65,49,3,10,23,Burger King
+Chicken,Sandwich,Chargrilled Chicken Club Sandwich,410,12,1370,110,5.0,0.0,80,37,3,10,37,Chick-fil-a
+Chicken,Sandwich,Chargrilled Chicken Sandwich,290,4,1030,35,1.0,0.0,55,36,3,9,29,Chick-fil-a
+Chicken,Just Meat,Chick-n-Strips,360,17,1230,150,4.0,0.0,80,17,1,2,34,Chick-fil-a
+Chicken,Burger,Chicken Deluxe,490,22,1660,190,6.0,0.0,70,41,3,8,33,Chick-fil-a
+Chicken,Sandwich,Chicken Salad Sandwich,490,19,1130,170,3.0,0.0,80,55,5,12,28,Chick-fil-a
+Chicken,Sandwich,Chicken Sandwich,430,17,1410,150,4.0,0.0,60,38,3,6,30,Chick-fil-a
+Chicken,Just Meat,Nuggets,260,12,990,110,3.0,0.0,70,11,1,1,28,Chick-fil-a
+Chicken,Sandwich,Spicy Chicken Sandwich,480,20,1660,180,5.0,0.0,65,44,3,6,31,Chick-fil-a
+Chicken,Burger,Spicy Deluxe,570,27,1810,240,8.0,0.0,80,46,4,8,36,Chick-fil-a
+Beef,Burger,1/2 lb. FlameThrower® GrillBurger,1000,74,1610,660,26.0,2.0,170,40,2,9,46,Dairy Queen
+Beef,Burger,1/2 lb. GrillBurger with Cheese,800,51,1280,460,20.0,2.0,135,44,3,13,40,Dairy Queen
+Beef,Burger,1/4 lb. Bacon Cheese GrillBurger,630,37,1250,330,13.0,1.0,95,44,2,13,30,Dairy Queen
+Beef,Burger,1/4 lb. GrillBurger with Cheese,540,30,1020,270,11.0,1.0,70,44,3,13,23,Dairy Queen
+Beef,Burger,1/4 lb. Mushroom Swiss GrillBurger,570,35,820,310,11.0,1.0,75,39,2,8,24,Dairy Queen
+Beef,Burger,Original Cheeseburger,400,18,930,160,9.0,1.0,65,34,1,8,19,Dairy Queen
+Beef,Burger,Original Double Cheeseburger,630,34,1240,310,18.0,2.0,125,34,1,9,34,Dairy Queen
+Chicken,Just Meat,3 chicken strips,350,20,960,180,3.0,0.0,60,22,10,0,22,Dairy Queen
+Chicken,Sandwich,Crispy Chicken Sandwich DQ,600,30,1250,270,5.0,0.0,55,59,7,8,24,Dairy Queen
+Chicken,Wrap,Crispy Chicken Wrap,350,21,820,190,5.0,0.0,35,30,2,1,12,Dairy Queen
+Chicken,Sandwich,Crispy FlameThrower Chicken Sandwich,830,51,2160,460,11.0,0.0,95,63,8,9,34,Dairy Queen
+Chicken,Wrap,Crispy FlameThrower Chicken Wrap,360,22,870,200,5.0,0.0,35,30,2,1,12,Dairy Queen
+Chicken,Sandwich,Grilled Chicken Sandwich,360,15,1040,140,3.0,0.0,50,32,1,5,25,Dairy Queen
+Chicken,Wrap,Grilled Chicken Wrap,280,15,800,130,4.0,0.0,30,22,1,1,15,Dairy Queen
+Other,Sandwich,Iron Grilled Cheese Sandwich,420,14,1230,120,8.0,0.0,35,52,2,3,17,Dairy Queen
+Ham,Sandwich,Iron Grilled Classic Club Sandwich,600,24,1950,220,8.0,0.0,85,55,3,4,33,Dairy Queen
+Other,Sandwich,Iron Grilled Supreme BLT Sandwich,600,34,1380,300,9.0,0.0,75,40,2,2,28,Dairy Queen
+Turkey,Sandwich,Iron Grilled Turkey Sandwich,550,23,1600,210,7.0,0.0,85,43,2,2,34,Dairy Queen
+Chicken,Burger,Bacon Buffalo Ranch McChicken,420,20,1250,180,4.5,0.0,50,41,2,6,20,McDonald's
+Chicken,Burger,Bacon Cheddar McChicken,480,24,1260,220,7.0,0.0,65,43,2,6,22,McDonald's
+Beef,Burger,Bacon Clubhouse Burger,720,40,1470,360,15.0,1.5,115,51,4,14,39,McDonald's
+Chicken,Sandwich,Bacon Clubhouse Crispy Chicken Sandwich,750,38,1720,340,10.0,0.5,90,65,4,16,36,McDonald's
+Chicken,Sandwich,Bacon Clubhouse Grilled Chicken Sandwich,590,25,1560,230,8.0,0.0,110,51,4,14,40,McDonald's
+Beef,Burger,Bacon McDouble,460,24,1120,210,10.0,1.0,85,34,2,7,28,McDonald's
+Beef,Burger,BBQ Ranch Burger,350,16,680,140,6.0,0.5,45,37,3,7,16,McDonald's
+Beef,Burger,Big Mac,540,29,1040,260,10.0,2.0,75,45,3,9,25,McDonald's
+Chicken,Burger,Buffalo Ranch McChicken,350,15,980,130,3.0,0.0,35,40,2,5,14,McDonald's
+Beef,Burger,Cheeseburger,300,12,750,110,6.0,1.0,40,33,2,6,15,McDonald's
+Beef,Burger,Daily Double,440,24,770,220,9.0,1.5,70,33,2,7,23,McDonald's
+Beef,Burger,Double Cheeseburger,440,23,1150,210,11.0,2.0,80,34,2,7,25,McDonald's
+Beef,Burger,Double Quarter Pounder® with Cheese,740,42,1380,380,19.0,3.0,155,40,3,9,48,McDonald's
+Fish,Burger,Filet-O-Fish®,380,18,640,170,4.0,0.0,40,38,2,5,15,McDonald's
+Beef,Burger,Grilled Onion Cheddar Burger,310,13,660,120,6.0,0.5,40,33,2,7,15,McDonald's
+Beef,Burger,Hamburger,250,9,520,80,4.0,1.0,25,31,2,6,12,McDonald's
+Beef,Burger,Jalapeño Double,430,23,1030,210,9.0,1.0,80,35,2,6,22,McDonald's
+Chicken,Burger,McChicken,360,16,830,150,3.0,0.0,35,40,2,5,14,McDonald's
+Beef,Burger,McDouble,390,19,920,170,8.0,1.0,65,33,2,7,22,McDonald's
+Beef,Burger,McRib,500,26,980,240,10.0,0.0,70,44,3,11,22,McDonald's
+Chicken,Sandwich,Premium Crispy Chicken Classic Sandwich,510,22,990,200,4.0,0.0,45,56,3,10,24,McDonald's
+Chicken,Sandwich,Premium Crispy Chicken Club Sandwich,620,29,1200,260,7.0,0.0,70,57,3,11,31,McDonald's
+Chicken,Sandwich,Premium Crispy Chicken Ranch BLT Sandwich,540,23,1170,210,5.0,0.0,55,56,3,11,27,McDonald's
+Chicken,Sandwich,Premium Grilled Chicken Classic Sandwich,350,9,820,80,2.0,0.0,65,42,3,8,28,McDonald's
+Chicken,Sandwich,Premium Grilled Chicken Club Sandwich,460,16,1030,150,6.0,0.0,90,43,3,9,35,McDonald's
+Chicken,Sandwich,Premium Grilled Chicken Ranch BLT Sandwich,380,10,1000,90,3.0,0.0,75,42,3,9,31,McDonald's
+Chicken,Wrap,Premium McWrap Chicken & Bacon (Crispy),600,30,1420,270,8.0,0.5,70,54,3,7,30,McDonald's
+Chicken,Wrap,Premium McWrap Chicken & Bacon (Grilled),440,16,1250,150,6.0,0.0,90,40,3,5,33,McDonald's
+Chicken,Wrap,Premium McWrap Chicken & Ranch (Crispy),590,29,1300,260,8.0,0.5,60,56,3,8,26,McDonald's
+Chicken,Wrap,Premium McWrap Chicken & Ranch (Grilled),430,16,1130,140,6.0,0.0,80,42,3,6,30,McDonald's
+Chicken,Wrap,Premium McWrap Chicken Sweet Chili (Crispy),520,22,1200,200,4.5,0.0,45,58,3,12,23,McDonald's
+Chicken,Wrap,Premium McWrap Chicken Sweet Chili (Grilled),360,9,1030,80,2.5,0.0,65,44,2,10,27,McDonald's
+Chicken,Wrap,Premium McWrap Southwest Chicken (Crispy),680,33,1470,300,8.0,0.5,65,68,4,12,27,McDonald's
+Chicken,Wrap,Premium McWrap Southwest Chicken (Grilled),520,20,1300,180,6.0,0.5,80,54,4,10,31,McDonald's
+Beef,Burger,Quarter Pounder Bacon & Cheese,600,29,1440,260,13.0,1.5,105,48,3,12,37,McDonald's
+Beef,Burger,Quarter Pounder Bacon Habanero Ranch,610,31,1180,280,13.0,1.5,105,46,3,10,37,McDonald's
+Beef,Burger,Quarter Pounder Deluxe,540,27,960,250,11.0,1.5,85,45,3,9,29,McDonald's
+Beef,Burger,Quarter Pounder® with Cheese,510,26,1190,230,12.0,2.0,90,40,3,9,29,McDonald's
+Chicken,Sandwich,Southern Style Crispy Chicken Sandwich,420,19,930,170,3.0,0.0,45,43,2,7,21,McDonald's
+Beef,Burger,HATCH GREEN CHILE CHEESEBURGER,710,43,1120,380,17.0,2.0,120,44,2,7,35,Sonic
+Beef,Burger,JALAPEÑO BURGER,640,37,930,330,14.0,2.0,100,42,2,6,31,Sonic
+Beef,Burger,JR. BURGER,340,17,640,150,6.0,1.0,35,34,1,6,15,Sonic
+Beef,Burger,JR. Chili Cheeseburger,410,24,730,220,9.0,0.5,55,32,1,4,20,Sonic
+Beef,Burger,JR. DELUXE BURGER,380,23,470,200,6.0,1.0,40,32,1,4,15,Sonic
+Beef,Burger,JR. DELUXE CHEESEBURGER,450,28,800,250,9.0,1.0,60,33,1,4,19,Sonic
+Beef,Burger,JR. DOUBLE CHEESEBURGER,600,38,1350,350,16.0,2.0,110,35,1,7,31,Sonic
+Beef,Burger,SONIC BACON CHEESEBURGER (W/MAYO),870,59,1350,530,20.0,2.0,140,45,2,7,39,Sonic
+Beef,Burger,SONIC BURGER (W/KETCHUP),650,37,860,340,14.0,2.0,100,46,2,10,32,Sonic
+Beef,Burger,SONIC BURGER (W/MAYONNAISE),740,48,760,430,15.0,2.0,110,44,2,7,31,Sonic
+Beef,Burger,SONIC BURGER (W/MUSTARD),640,37,790,330,14.0,2.0,100,43,2,7,31,Sonic
+Beef,Burger,SONIC CHEESEBURGER (W/KETCHUP),720,43,1190,380,17.0,2.0,120,47,2,10,35,Sonic
+Beef,Burger,SONIC CHEESEBURGER (W/MAYONNAISE),800,54,1090,480,18.0,2.0,130,44,2,7,35,Sonic
+Beef,Burger,SONIC CHEESEBURGER (W/MUSTARD),710,43,1120,380,17.0,2.0,120,43,2,7,35,Sonic
+Beef,Burger,Super SONIC BACON DOUBLE CHEESEBURGER (W/MAYO),1280,92,1630,830,36.0,4.0,260,44,2,7,67,Sonic
+Beef,Burger,Super SONIC DOUBLE CHEESEBURGER (W/KETCHUP),1130,76,1620,680,32.0,4.0,235,47,2,11,63,Sonic
+Beef,Burger,Super SONIC DOUBLE CHEESEBURGER (W/MAYO),1220,87,1520,780,34.0,4.0,245,45,2,8,63,Sonic
+Beef,Burger,Super SONIC DOUBLE CHEESEBURGER (W/MUSTARD),1120,76,1550,680,32.0,4.0,235,44,2,8,63,Sonic
+Beef,Burger,Super SONIC JALAPEÑO DOUBLE CHEESEBURGER,1120,76,1690,680,32.0,4.0,235,43,2,7,63,Sonic
+Veggie,Burger,VEGGIE BURGER (W/ KETCHUP),450,14,1410,130,4.0,0.0,10,67,5,11,15,Sonic
+Veggie,Burger,VEGGIE BURGER (W/ MUSTARD),450,14,1300,130,4.0,0.0,10,64,5,8,15,Sonic
+Veggie,Burger,VEGGIE BURGER WITH MUSTARD,450,14,1350,130,4.0,0.0,10,64,5,8,15,Sonic
+Chicken,Sandwich,ASIAGO CAESAR CHICKEN CLUB SANDWICH (CRISPY),680,39,1120,350,9.0,0.0,80,53,4,7,31,Sonic
+Chicken,Sandwich,ASIAGO CAESAR CHICKEN CLUB SANDWICH (Grilled),610,30,1570,270,7.0,0.0,110,44,3,8,40,Sonic
+Chicken,Sandwich,CHICKEN STRIP SANDWICH,450,24,740,220,4.0,0.0,35,43,1,4,19,Sonic
+Chicken,Sandwich,CRISPY CHICKEN SANDWICH (WHEAT),570,33,1060,300,5.0,0.0,45,47,4,6,23,Sonic
+Chicken,Sandwich,GRILLED CHICKEN SANDWICH Sonic,430,20,940,180,4.0,0.0,80,33,2,6,28,Sonic
+Chicken,Just Meat,JUMBO POPCORN CHICKEN - LARGE (6oz),560,32,1890,290,6.0,1.0,65,41,5,2,27,Sonic
+Chicken,Just Meat,JUMBO POPCORN CHICKEN - SMALL (4oz),380,22,1250,190,4.0,0.0,45,27,3,1,18,Sonic
+Chicken,Just Meat,SPICY JUMBO POPCORN CHICKEN LARGE,610,30,1500,270,5.0,0.0,80,51,3,0,36,Sonic
+Chicken,Just Meat,SPICY JUMBO POPCORN CHICKEN SMALL,350,17,860,150,3.0,0.0,45,30,2,0,21,Sonic
+Chicken,Just Meat,SUPER CRUNCH CHICKEN STRIP DINNER 3 PIECE,970,46,2160,410,8.0,1.0,55,109,7,9,30,Sonic
+Chicken,Just Meat,SUPER CRUNCH CHICKEN STRIP DINNER 4 PIECE,1080,51,2390,460,9.0,1.0,75,118,8,9,37,Sonic
+Chicken,Just Meat,SUPER CRUNCH CHICKEN STRIP DINNER 5 PIECE,1190,57,2610,510,10.0,1.0,90,126,8,9,44,Sonic
+Chicken,Just Meat,SUPER CRUNCH CHICKEN STRIPS 3 PIECE,330,16,670,140,3.0,0.0,55,25,2,0,22,Sonic
+Chicken,Just Meat,SUPER CRUNCH CHICKEN STRIPS 4 PIECE,440,21,900,190,4.0,0.0,70,34,2,1,29,Sonic
+Chicken,Just Meat,SUPER CRUNCH CHICKEN STRIPS 5 PIECE,550,26,1120,240,5.0,0.0,90,42,3,1,36,Sonic
